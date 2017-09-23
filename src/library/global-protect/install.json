@@ -1,0 +1,11 @@
+{
+    "ApplicationName": "GlobalProtect.app",
+    "ApplicationPath": "/Applications/GlobalProtect.app",
+    "Contents": {
+        "Resources": {
+            "tray_ok.icns": "tray_ok.icns",
+            "tray_stop.icns": "tray_stop.icns"
+        }
+    },
+    "NeedsAdminPrivileges": true
+}

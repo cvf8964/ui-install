@@ -1,0 +1,11 @@
+{
+    "ApplicationName": "Netfits.app",
+    "ApplicationPath": "/Applications/Netfits.app",
+    "Contents": {
+        "Resources": {
+            "status-bar-icon-white-start.tiff": "status-bar-icon-white-start.tiff",
+            "status-bar-icon-white-stop.tiff": "status-bar-icon-white-stop.tiff"
+        }
+    },
+    "NeedsAdminPrivileges": false
+}
